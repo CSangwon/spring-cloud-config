@@ -3,4 +3,5 @@ token:
   secret: asdfasdfasdfasdfasdfasdfasdfasdf
 
 gateway:
-  ip: 192.168.0.36
+  # ip: 192.168.0.36
+  ip: 192.168.35.243
