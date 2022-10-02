@@ -1,0 +1,7 @@
+token:
+  expirationTime: 86400000
+  secret: asdfasdfasdfasdfasdfasdfasdfasdf_changed
+
+gateway:
+  # ip: 192.168.0.36
+  ip: 192.168.35.243
