@@ -1,6 +1,6 @@
 token:
   expirationTime: 86400000
-  secret: asdfasdfasdfasdfasdfasdfasdfasdf_changed2_dev
+  secret: asdfasdfasdfasdfasdfasdfasdfasdf_changed2_dev_ver2
 
 gateway:
   # ip: 192.168.0.36
