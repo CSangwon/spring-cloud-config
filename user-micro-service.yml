@@ -14,4 +14,4 @@ gateway:
   ip: 192.168.35.243
 
 order_service:
-  url: http://127.0.0.1:8000/order-micro-service/%s/orders
+  url: http://order-micro-service/order-micro-service/%s/orders
